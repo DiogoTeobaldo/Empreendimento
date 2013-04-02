@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>Maior Tamanho</h1>
+	<h7>Menor Tamanho</h7>
 	
 	<center><h2>World of Warcraft</h2></center>
 	<div id="conteudo">
