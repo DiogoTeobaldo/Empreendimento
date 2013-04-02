@@ -8,6 +8,8 @@
 </head>
 <body>
 	<h1>Maior Tamanho</h1>
+	
+	<center><h2>World of Warcraft</h2></center>
 	<div id="conteudo">
 		<div id="banner">
 		</div>
