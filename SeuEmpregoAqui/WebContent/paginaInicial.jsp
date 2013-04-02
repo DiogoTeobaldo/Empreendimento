@@ -3,25 +3,25 @@
 <!DOCTYPE>
 <html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Seu Emprego Aqui</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css" media="screen">
+	<title>Seu Emprego Aqui</title>
 </head>
 <body>
-	<h1>Maior Tamanho</h1>
-	<h7>Menor Tamanho</h7>
-	
-	<center><h2>World of Warcraft</h2></center>
 	<div id="conteudo">
 		<div id="banner">
+		
 		</div>
 		
-		<div id="menubar">
+		<div id="menuBar">
+		
 		</div>
 		
 		<div id="propaganda">
+			currentTime
 		</div>
 		
 		<div id="radio">
+		
 		</div>
 		
 		<div id="corpo">
