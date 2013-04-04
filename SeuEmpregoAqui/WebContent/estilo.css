@@ -35,18 +35,29 @@
 	background: red;
 	position: relative;
 	width: 10%;
-	left: 1222px;
+	left: 1218px;
 	height: 280px;
 	top: 30px;
+	border-radius: 10px;
 }
 
 #radio{
-	background: black;
+	background: blue;
 	position: relative;
 	width: 10%;
-	height: 1005;
+	height: 280px;
+	top: -250px;
+	border-radius: 10px;
 }
 
 #corpo{
 	background: orange;
+	height: auto;
+	width: 75%;
+	position: absolute;
+	margin-left: 143px;
+	top: 340px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
+
