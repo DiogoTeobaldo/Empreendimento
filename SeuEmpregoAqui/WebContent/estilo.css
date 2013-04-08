@@ -17,6 +17,8 @@
 	margin-left: 125px;
 	position: relative;
 	top: 20px;
+	padding-left: 15px;
+	padding-top: 7px;
 	border-radius: 20px;
 }
 
@@ -27,6 +29,8 @@
 	width: 80%;
 	height: 50px;
 	top: 26px;
+	padding-left: 15px;
+	padding-top: 7px;
 	border-radius: 27px;
 	
 }
@@ -35,8 +39,10 @@
 	background: red;
 	position: relative;
 	width: 10%;
-	left: 1218px;
+	left: 1206px;
 	height: 280px;
+	padding-left: 8px;
+	padding-top: 7px;
 	top: 30px;
 	border-radius: 10px;
 }
@@ -47,17 +53,31 @@
 	width: 10%;
 	height: 280px;
 	top: -250px;
+	padding-left: 8px;
+	padding-top: 7px;
 	border-radius: 10px;
 }
 
 #corpo{
-	background: orange;
+	background: lime;
 	height: auto;
 	width: 75%;
 	position: absolute;
-	margin-left: 143px;
-	top: 340px;
-	padding-left: 20px;
+	margin-left: 150px;
+	top: 345px;
+	padding-left: 15px;
 	padding-right: 20px;
+	border-radius: 10px;
+}
+#footer{
+	background: silver;
+	position: absolute;
+	height: auto;
+	width: 78%;
+	padding-left: 15px;
+	margin-left: 139px;
+	margin-bottom: 10px;
+	top: 650px;
+	border-radius: 10px;
 }
 

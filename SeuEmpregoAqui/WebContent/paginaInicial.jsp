@@ -9,27 +9,28 @@
 <body>
 	<div id="conteudo">
 		<div id="banner">
-		
+			Espaço reservado para o banner do site.
 		</div>
 		
 		<div id="menuBar">
-		
+			Espaço reservado para o menu do site.
 		</div>
 		
 		<div id="propaganda">
-			currentTime
+			Espaço reservado para publicidade e propaganda do site.
 		</div>
 		
 		<div id="radio">
-		
+			Espaço destinado a radio (Momentanêamente)
 		</div>
 		
 		<div id="corpo">
-			Aqui fica o conteúdo do meio da página.
+			Espaço destinado a parte princinpal do site.
 		</div>
 		
-		<footer>
-		</footer>
+		<div id="footer">
+			Rodapé.
+		</div>
 	</div>
 
 </body>
