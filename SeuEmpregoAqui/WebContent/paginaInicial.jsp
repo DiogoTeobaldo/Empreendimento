@@ -21,7 +21,10 @@
 		</div>
 		
 		<div id="radio">
-			Espaço destinado a radio (Momentanêamente)
+			<iframe scrolling="no" frameborder="0" width="162"
+					src="http://cidadefm.clix.pt/player/player_blog/player.asp?skin=1&play=0"
+					height="245" title="Cidade FM Blog Player"> 
+			</iframe>
 		</div>
 		
 		<div id="corpo">
