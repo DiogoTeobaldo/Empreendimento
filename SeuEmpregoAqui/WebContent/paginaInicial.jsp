@@ -9,7 +9,7 @@
 <body>
 	<div id="conteudo">
 		<div id="banner">
-			Espaço reservado para o banner do site.
+			<img alt="ImagenTeste" src="tekken.jpg" width="99%" height="245px" border-radius="10px">
 		</div>
 		
 		<div id="menuBar">
