@@ -45,7 +45,7 @@
 		</div>
 		
 		<div id="radio">
-			<iframe scrolling="no" frameborder="0" width="162"
+			<iframe scrolling="no" frameborder="0" width="162" style="border-radius : 10px;"
 					src="http://cidadefm.clix.pt/player/player_blog/player.asp?skin=1&play=0"
 					height="245" title="Cidade FM Blog Player"> 
 			</iframe>
