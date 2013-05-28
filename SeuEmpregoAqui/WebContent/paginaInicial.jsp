@@ -56,7 +56,10 @@
 		</div>
 		
 		<div id="footer">
-			Rodapé.
+			<a href = "www.google.com.br"> Quem somos</a> <center>Contato(s): (79)99993688 / (79)91196834</center><br>
+			<a>Nosso Objetivo</a> <center>E-mail: drigojo@gmail.com</center><br>
+			<a>Nossa Missão</a><br>
+			Produzido em: 20/05/2013<br>		
 		</div>
 	</div>
 
